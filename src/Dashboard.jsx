@@ -28,11 +28,11 @@ const Dashboard = () => {
                 </div>
 
                 <div className="sm_links">
-                    <div className="sm_links"> <a href="https://www.facebook.com/vasitum/" target="_blank"> <img src="https://www.vasitum.com/static/images/social-media/facebook.svg"/> </a></div>
-                    <div className="sm_links"> <a href="https://www.instagram.com/vasitum/" target="_blank"> <img src="https://www.vasitum.com/static/images/social-media/insta.svg"/> </a></div>
-                    <div className="sm_links"> <a href="https://www.linkedin.com/company/vasitum/" target="_blank"> <img src="https://www.vasitum.com/static/images/social-media/linkedin.svg"/> </a></div>
-                    <div className="sm_links"> <a href="https://www.youtube.com/channel/UCYbOspBTRIoFWUIFudkHVTw?reload=9" target="_blank"> <img src="https://www.vasitum.com/static/images/social-media/youtube.svg"/> </a></div>
-                    <div className="sm_links"> <a href="https://twitter.com/Vasitum" target="_blank"> <img src="https://www.vasitum.com/static/images/social-media/twitter.svg"/> </a></div>
+                    <div className="sm_links"> <a href="https://www.facebook.com/vasitum/" target="_blank"> <img src="https://www.vasitum.com/static/images/social-media/facebook.svg" alt="sm_images" /> </a></div>
+                    <div className="sm_links"> <a href="https://www.instagram.com/vasitum/" target="_blank"> <img src="https://www.vasitum.com/static/images/social-media/insta.svg" alt="sm_images" /> </a></div>
+                    <div className="sm_links"> <a href="https://www.linkedin.com/company/vasitum/" target="_blank"> <img src="https://www.vasitum.com/static/images/social-media/linkedin.svg" alt="sm_images" /> </a></div>
+                    <div className="sm_links"> <a href="https://www.youtube.com/channel/UCYbOspBTRIoFWUIFudkHVTw?reload=9" target="_blank"> <img src="https://www.vasitum.com/static/images/social-media/youtube.svg" alt="sm_images" /> </a></div>
+                    <div className="sm_links"> <a href="https://twitter.com/Vasitum" target="_blank"> <img src="https://www.vasitum.com/static/images/social-media/twitter.svg" alt="sm_images" /> </a></div>
                 </div>
             </div>
 

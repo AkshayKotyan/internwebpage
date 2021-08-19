@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import SingUp from "./SingUp";
+// import SingUp from "./SingUp";
 
 const Login = () => {
    
